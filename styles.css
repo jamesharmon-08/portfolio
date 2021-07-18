@@ -1,12 +1,16 @@
+/* Set the background-color for the body*/
 body {
     background-color: #053742;
 }
+/* Set the color for <p> text */
 p {
    color: #A2DBFA;
 }
+/* Set the color for header 1 text */
 h1 {
     color: #E8F0F2;
     }
+/* round the corners of the img */
 img {
       border-radius: 10px;
 }
@@ -88,11 +92,14 @@ img {
   background: #E8F0F2;
   color: #00ACEE;
 }
+
+/* Linked In */
 .fa-linkedin {
   background: #55ACEE;
   color: #0e76a8;
 }
 
+/* Github */
 .fa-github {
   background: #E8F0F2;
   color: black;
